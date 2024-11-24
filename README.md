@@ -61,4 +61,21 @@
     - Pengguna memasukkan nama mahasiswa yang ingin dihapus. Program menghapus data tersebut.
 
 # Contoh Output
-# Tambah Data
+
+# Tambahkan Data
+![Cuplikan layar 2024-11-24 141953](https://github.com/user-attachments/assets/7321837e-c635-4e3e-8f77-64deef2c2ca5)
+
+# Tampilkan Data
+![Cuplikan layar 2024-11-24 142302](https://github.com/user-attachments/assets/ce3d2d41-5b20-4d28-9127-eb692df1a1c7)
+
+# Ubah Data
+![Cuplikan layar 2024-11-24 142450](https://github.com/user-attachments/assets/1c06332d-66a1-4667-9a50-60ae53486b67)
+
+# Hapus Data
+![Cuplikan layar 2024-11-24 142631](https://github.com/user-attachments/assets/1d17b6c0-580d-4ed0-87d1-0b5302262f1b)
+
+# Cari Data
+![Cuplikan layar 2024-11-24 143216](https://github.com/user-attachments/assets/f3df2d78-9ffe-465a-916e-f7158c37f7cc)
+
+# Keluar
+![Cuplikan layar 2024-11-24 143345](https://github.com/user-attachments/assets/545433c9-8066-4a62-a29b-3ecdfb16ac61)
