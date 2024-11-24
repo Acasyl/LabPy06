@@ -34,3 +34,31 @@
     atau mencari data mahasiswa, atau keluar dari program).
 
 # Flowchart
+![flowchart praktikum6](https://github.com/user-attachments/assets/d2a0869a-a75a-44da-b3bd-01ab7760eb80)
+
+# Berikut adalah deskripsi flowchart yang menggambarkan alur program:
+  - Mulai: Program dimulai.
+  - Tampilkan Menu: Menampilkan pilihan menu (Tambah Data, Ubah Data, Hapus Data, Tampilkan Data, Cari Data, Keluar).
+  - Pilih Menu: Pengguna memilih opsi dari menu.
+    -Jika "Tambah Data", jalankan fungsi `tambah_data`().
+    - Jika "Tampilkan Data", jalankan fungsi `tampilkan_data`().
+    - Jika "Ubah Data", jalankan fungsi `ubah_data`().
+    - Jika "Hapus Data", jalankan fungsi `hapus_data`().
+    - Jika "Cari Data", jalankan fungsi `cari_data`().
+    - jika "Keluar", keluar dari loop dan program selesai.
+  - Kembali ke Menu: Setelah menjalankan fungsi, kembali ke langkah 2 untuk menampilkan menu lagi.
+
+# Contoh Penggunaan
+  - Menambah Data:
+    - Pengguna memasukkan nama, NIM, dan nilai untuk tugas, UTS, dan UAS. Program menghitung dan menyimpan nilai akhir.
+  - Menampilkan Data:
+    - rogram menampilkan semua data mahasiswa dalam tabel.
+  - Mengubah Data:
+    - Pengguna memasukkan nama mahasiswa yang ingin diubah dan nilai baru. Program memperbarui data
+  - Pengguna memasukkan nama mahasiswa yang ingin diubah dan nilai baru. Program memperbarui data
+    - pengguna memasukkan nama mahasiswa yang ingin dihapus. Program menghapus data tersebut.
+  - Pengguna memasukkan nama mahasiswa yang ingin dihapus. Program menghapus data tersebut.
+    - Pengguna memasukkan nama mahasiswa yang ingin dihapus. Program menghapus data tersebut.
+
+# Contoh Output
+# Tambah Data
